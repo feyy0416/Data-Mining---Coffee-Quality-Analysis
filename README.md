@@ -2,7 +2,7 @@
 
 Teams Name: Orchid 
 <br>
-Jinyin Chai, Qiyang Xie, Ying Shen, Zifei Song
+Zifei Song, Jinyin Chai, Qiyang Xie, Ying Shen
 <br><br>
 This report presents a comparative analysis of several machine learning algorithms applied to
 the problem of predicting the quality of Arabica coffee beans based on various features we selected,
